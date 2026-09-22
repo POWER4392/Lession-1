@@ -27,6 +27,7 @@ export default function App() {
           <View style={[styles.box, styles.box5]}>
             <Text style={styles.numberText}>5</Text>
           </View>
+          <View style={styles.emptyBox} />
         </View>
 
         <View style={styles.row3}>
@@ -98,8 +99,11 @@ const styles = StyleSheet.create({
     backgroundColor: '#388E3C', // Xanh lá
   },
   box5: {
-    flex: 2,
+    flex: 1,
     backgroundColor: '#7E57C2', // Tím
+  },
+  emptyBox: {
+    flex: 1, // Ô thừa để trống
   },
 
   /* Hàng 3 */
