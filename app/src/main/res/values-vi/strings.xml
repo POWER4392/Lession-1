@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Quản lý Sinh viên</string>
+    <string name="students_title">Danh sách Sinh viên</string>
+    <string name="students_subtitle">%1$d sinh viên</string>
+    <string name="search_hint">Tìm theo tên hoặc mã SV...</string>
+    <string name="empty_list">Chưa có sinh viên nào</string>
+    <string name="empty_list_desc">Nhấn nút + bên dưới để thêm sinh viên mới.</string>
+    <string name="add_student">Thêm sinh viên</string>
+
+    <string name="title_add">Thêm sinh viên</string>
+    <string name="title_edit">Sửa sinh viên</string>
+    <string name="hint_name">Họ tên sinh viên</string>
+    <string name="hint_code">Mã số SV</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_avatar_link">Link ảnh avatar (URL)</string>
+    <string name="btn_pick_image">Chọn ảnh từ thiết bị</string>
+    <string name="btn_save">Lưu sinh viên</string>
+    <string name="avatar_section_title">Ảnh đại diện</string>
+    <string name="avatar_section_desc">Tải ảnh từ máy hoặc dán liên kết ảnh trực tiếp</string>
+
+    <string name="detail_title">Thông tin chi tiết</string>
+    <string name="detail_code">Mã SV: %1$s</string>
+    <string name="detail_email">Email: %1$s</string>
+    <string name="label_code">Mã số sinh viên</string>
+    <string name="label_email">Địa chỉ Email</string>
+    <string name="edit">Sửa</string>
+    <string name="delete">Xóa</string>
+    <string name="close">Đóng</string>
+    <string name="cancel">Hủy</string>
+    <string name="yes">Có</string>
+    <string name="no">Không</string>
+
+    <string name="confirm_edit">Bạn có muốn sửa thông tin SV không?</string>
+    <string name="confirm_delete">Bạn có muốn xóa thông tin SV không?</string>
+    <string name="dialog_confirm_title">Xác nhận</string>
+
+    <string name="err_required">Không được để trống</string>
+    <string name="err_email">Email không hợp lệ</string>
+    <string name="err_duplicate_code">Mã số SV đã tồn tại</string>
+    <string name="toast_deleted">Đã xóa sinh viên</string>
+    <string name="toast_saved">Đã lưu thông tin sinh viên</string>
+</resources>
