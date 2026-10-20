@@ -1,0 +1,17 @@
+node_modules/
+.expo/
+dist/
+.idea/
+.gradle/
+.kotlin/
+build/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+.DS_Store
+*.log
